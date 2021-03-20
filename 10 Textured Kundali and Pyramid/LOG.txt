@@ -1,0 +1,34 @@
+Log File SuccessFully Created 
+D3D11CreateDeviceAndSwapChain() Succedded
+The Chosen Driver Is Of Hardware Type
+The Supported Highest Feature Level Is 11.0
+D3DCompile() Successed For Vertex Shader
+ID3D11Device::CreateVertexShader() Succeded
+D3DCompile() Succeded for Pixel Shader
+ID3D11Device::CreatePixelShader() Succedded
+ID3D11Device::CreateInputLayout() Succeded
+ID3D11Device::CreateBuffer() Succeded For Vertex Buffer()
+D3D11Initialize::CreateBuffer() Succeded For Pyramid Texture
+ID3D11Device::CreateBuffer() Succeded For Cube Vertex Buffer
+D3D11Initialize::CreateBuffer() Succeded For Cube Texture
+ID3D11Device::CreateBuffer() Succeded For Constant Buffer
+ID3D11Device::CreateRasterizerState() Succeded For Culling
+CreateWICTextureFromFile() Succeeded
+ID3D11Device::Succeeded For Pyramid Texture
+ID3D11Device::CreateSamplerState(): Succedded For Pyramid Texture
+CreateWICTextureFromFile() Succeeded
+ID3D11Device::Succeeded For Pyramid Texture
+ID3D11Device::CreateSamplerState():  For Pyramid Texture Succedded
+ID3D11Device::g_pID3D11Device_sj->CreateRenderTargetView() Succeded
+ID3D11Device::CreateDepthStencilView() Succed
+Resize() Succeeded
+Initialize SucceddedID3D11Device::g_pID3D11Device_sj->CreateRenderTargetView() Succeded
+ID3D11Device::CreateDepthStencilView() Succed
+Resize() Successed 
+ID3D11Device::g_pID3D11Device_sj->CreateRenderTargetView() Succeded
+ID3D11Device::CreateDepthStencilView() Succed
+Resize() Successed 
+Uninitialize() Succedded
+Successfully Created Log File
+Uninitialize() Succedded
+Successfully Created Log File
